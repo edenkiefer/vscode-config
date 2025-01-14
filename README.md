@@ -10,7 +10,6 @@ Depois instalar as extensões no VSCode:
 - Better Comments
 - Svg Preview
 - Color Highlight
-- Docker
 - Tailwind CSS IntelliSense
 - ESLint
 - Prettier ESLint
@@ -22,7 +21,7 @@ Agora é só copiar e colar:
 
 ```json
 {
-   "window.zoomLevel": 1,
+   "window.zoomLevel": 0.8,
    "editor.fontFamily": "'JetBrains Mono', monospace",
    "editor.fontSize": 14,
    "editor.lineHeight": 1.8,
